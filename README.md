@@ -1,2 +1,3 @@
 # HELLO-WORLD
-Hello World
+Displace hello world to the user
+By using git
